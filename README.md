@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 你好！我是 Tom 👋
+
+- 🌍 目前在迪拜工作
+- 📚 正在学习 GitHub 和 AI
+- 💼 合同工程师
+- 🚀 对新技术充满好奇
