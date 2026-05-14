@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 # 你好！我是 Tom 👋
 
-- 🌍 目前在迪拜工作，Oil & Gas，合同管理
+- 🌍 目前在迪拜工作，Oil & Gas行业，合同管理
 - 📚 正在学习 GitHub 和 AI
 - 🚀 对新技术充满好奇
